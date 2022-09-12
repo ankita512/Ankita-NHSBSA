@@ -25,3 +25,8 @@
 # How to perform Cross Browser Testing
 - Go to src/test/java/resources/propertyfiles/config.properties
 - Change Browser Name chrome to firefox
+
+# How to Run in command line?
+- Open Command prompt
+- Navigate to the folder of the target programme
+- Write Command "mvn test"
